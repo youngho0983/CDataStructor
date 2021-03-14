@@ -16,3 +16,4 @@ char str[]="value";
 char str[]={'v','a','l','u','e'}
 char str[6]={0,} ==> 모두 0으로 만듬
 
+dtd
